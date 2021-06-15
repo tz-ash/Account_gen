@@ -5,7 +5,7 @@
 
 <h2 align="center"> <a href="https://t.me/legendtheterrorin">💥 By - Legend 💥</a></h2>
 
-# Account Generator Bot
+# Account Generator Bot 🤖
 Account Generator Bot, written in GoLang via gotgbot library.
 
 # Variables
