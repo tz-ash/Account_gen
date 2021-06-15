@@ -19,7 +19,7 @@ Account Generator Bot, written in GoLang via gotgbot library.
 -----------------    
 
 ## Adding Accounts 
-To Add Accounts Just Replace Combos after line 60 in main.go in codes section !!
+To Add Accounts Just Replace Combos after line 60 in main.go in codes section 
 ## Deploying
 Deploy Via Heroku.
 <p>
