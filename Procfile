@@ -1,1 +1,1 @@
-worker: bin/Account_gen
+worker: bin/AccountGeneratorBot
